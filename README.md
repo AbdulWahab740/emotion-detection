@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis using LSTM
+# 🧠 Emotion Sentiment Analysis using LSTM
 
 This project focuses on classifying human emotions in text using an LSTM-based deep learning model. The original dataset had a **7-class emotion distribution**, which was **re-mapped** into broader sentiment categories: `positive`, `negative`, and `neutral`. Special attention was given to class imbalance and model generalization using various preprocessing and resampling techniques.
 
