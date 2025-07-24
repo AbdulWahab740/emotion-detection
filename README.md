@@ -1,4 +1,4 @@
-![HuggingFace Space Deployed Link](https://huggingface.co/spaces/AbdulWahab70/emotion-detection-sentiment)
+[HuggingFace Space Deployed Link](https://huggingface.co/spaces/AbdulWahab70/emotion-detection-sentiment)
 
 # 🧠 Emotion Sentiment Analysis using LSTM
 
