@@ -1,0 +1,7 @@
+streamlit==1.35.0           # UI Framework
+tensorflow==2.18.0          # Deep learning backend
+keras==3.8.0                # For model loading
+numpy==1.26.4               # Fixed version compatible with Streamlit
+pandas==2.2.2               # For dataframes/text
+scikit-learn==1.6.1         # Encoders, metrics
+nltk==3.9.1                 # Text preprocessing
